@@ -1,4 +1,4 @@
-The report of this project is at Report.pdf
+ Report.pdf
 
 Each of following file shows process of training and result of each model\
 -LSTM.ipynb\
