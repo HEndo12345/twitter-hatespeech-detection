@@ -1,4 +1,4 @@
- Report.pdf
+The project is explained in Report.pdf
 
 Each of following file shows process of training and result of each model\
 -LSTM.ipynb\
